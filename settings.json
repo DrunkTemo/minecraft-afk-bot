@@ -1,0 +1,52 @@
+{
+  "bot-account": {
+    "username": "BOT_NAME_HERE",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "something.aternos.me",
+    "port": 25565,
+    "version": "1.19.3"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "I love you!",
+        "my mommy is DrunkTemo",
+        "erm",
+        "im real player, fr fr",
+		"any cute little kittens online right meow i can cuddle with!??!",
+		"new FeetMC video is soo good",
+		"we are Nintendo. ultimate game system. we challenge all players. you cannot beat us."
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 3
+  }
+}
